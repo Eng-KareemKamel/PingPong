@@ -109,10 +109,9 @@ Some ideas if you want to extend the project:
 
 ## 📸 Screenshot
 
-You can add a screenshot like this:
-
 ```
-![Game Screenshot](screenshot.png)
+<img width="809" height="639" alt="image" src="https://github.com/user-attachments/assets/bc995f20-cd25-454e-8472-3d64ffa40e22" />
+
 ```
 
 ---
