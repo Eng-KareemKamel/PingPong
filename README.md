@@ -88,7 +88,7 @@ These values determine the horizontal and vertical movement speed.
 ```
 ping-pong-turtle
 │
-├── pingpong.py
+├── app.py
 └── README.md
 ```
 
