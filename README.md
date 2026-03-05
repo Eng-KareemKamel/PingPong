@@ -107,26 +107,8 @@ Some ideas if you want to extend the project:
 
 ---
 
-## 📸 Screenshot
-
-```
-<img width="809" height="639" alt="image" src="https://github.com/user-attachments/assets/bc995f20-cd25-454e-8472-3d64ffa40e22" />
-
-```
-
----
-
 ## 📜 License
 
 This project is open source and available under the **MIT License**.
 
 ---
-
-If you want, I can also show you how to upgrade this project with:
-
-* **AI paddle**
-* **ball acceleration**
-* **better collision physics**
-* **start menu**
-
-which makes it look much more like a real arcade Pong game.
